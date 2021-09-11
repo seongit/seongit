@@ -7,7 +7,9 @@
 ✔️ &nbsp; 자라나기 위해  📝**기록**하고, 잘 하기 위해 🧩**협업**하고 있습니다.\
 ✔️ &nbsp; **누구에게나 설명할 수 있는 코드**라는 원칙을 가지고 **클린 코드**를 위해 노력해요.\
 ✔️ &nbsp; 맡은 일은 **철저하고 확실하게** 그리고 **꾸준하게** 하는 **ISTJ** 🤓 랍니다.\
-✔️ &nbsp; 저에 대해 더 알고 싶으시다면, <a href="https://seongeun-it.oopy.io/">제 포트폴리오</a>에 방문해주세요.
+✔️ &nbsp; 저에 대해 더 궁금하시다면  <a href="https://seongeun-it.oopy.io/">포트폴리오</a>와 <a href="https://seongeun-it.tistory.com/">개발 블로그</a>를 방문해주세요.
+
+
 
 ### 🛠 &nbsp;Technical Skills
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
