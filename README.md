@@ -28,20 +28,10 @@
   ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=github)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
 
-
-  
-  ### 💻 &nbsp;GitHub Analytics
-  \
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=seongit&show_icons=true&include_all_commits=true)](https://github.com/seongit/github-readme-stats)
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongit&layout=compact)](https://github.com/seongit/github-readme-stats)
-
   ### 🤝🏻 &nbsp;Contact
-  <a href="mailto:dev.seongeun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-white?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
-
-  
-<a href="https://seongeun-it.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-web-white"/></a>
-<a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-Notion-white"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongit&count_bg=%23F7DF1E&title_bg=%23555555&icon=&icon_color=%236B6060&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  <a href="mailto:dev.seongeun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-white?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>\
+  <a href="https://seongeun-it.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-web-white"/></a>
+  <a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-Notion-white"/></a>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongit&count_bg=%23F7DF1E&title_bg=%23555555&icon=&icon_color=%236B6060&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
