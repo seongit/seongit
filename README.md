@@ -5,10 +5,10 @@
   
   ### 👋&nbsp; 초보 개발자 성은입니다. ☺️
   \
-  ✔️ &nbsp; 자라나기 위해  📝**기록**하고, 잘 하기 위해 🧩**협업**하고 있습니다.\
-  ✔️ &nbsp; **누구에게나 설명할 수 있는 코드**라는 원칙을 가지고 **클린 코드**를 위해 노력해요.\
-  ✔️ &nbsp; 맡은 일은 **철저하고 확실하게** 그리고 **꾸준하게** 하는 **ISTJ** 🤓 랍니다.\
-  ✔️ &nbsp; 저에 대해 더 궁금하시다면  <a href="https://seongeun-it.oopy.io/">포트폴리오</a>와 <a href="https://seongeun-it.tistory.com/">개발 블로그</a>를 방문해주세요.
+  ✔️&nbsp; 자라나기 위해  📝**기록**하고, 잘 하기 위해 🧩**협업**하고 있습니다.\
+  ✔️&nbsp; **누구에게나 설명할 수 있는 코드**라는 원칙을 가지고 **클린 코드**를 위해 노력해요.\
+  ✔️&nbsp; 맡은 일은 **철저하고 확실하게** 그리고 **꾸준하게** 하는 **ISTJ** 🤓 랍니다.\
+  ✔️&nbsp; 저에 대해 더 궁금하시다면  <a href="https://seongeun-it.oopy.io/">포트폴리오</a>와 <a href="https://seongeun-it.tistory.com/">개발 블로그</a>를 방문해주세요.
   <br><br>
   
   ### 🛠 &nbsp;Technical Skills
@@ -37,11 +37,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongit&layout=compact)](https://github.com/seongit/github-readme-stats)
 
   ### 🤝🏻 &nbsp;Contact
-  <a href="mailto:dev.seongeun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:dev.seongeun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-white?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
 
   
-<a href="https://seongeun-it.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-web-green"/></a>
-<a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-Docs-white"/></a>
+<a href="https://seongeun-it.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-web-white"/></a>
+<a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d" target="_blank"><img src="https://img.shields.io/badge/Porfoilo-Notion-white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongit&count_bg=%23F7DF1E&title_bg=%23555555&icon=&icon_color=%236B6060&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
