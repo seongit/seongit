@@ -1,6 +1,7 @@
 
 <a href="https://seongeun-it.oopy.io/"><img src="https://img.shields.io/badge/Porfoilo-web-green"/></a>
-<a href=""><img src="https://img.shields.io/badge/Porfoilo-Docs-white"/></a>
+<a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d"><img src="https://img.shields.io/badge/Porfoilo-Docs-white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongit&count_bg=%23F7DF1E&title_bg=%23555555&icon=&icon_color=%236B6060&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## 👋 &nbsp; 초보 개발자 성은입니다. ☺️
@@ -31,6 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongit&layout=compact)](https://github.com/seongit/github-readme-stats)
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:dev.seongeun@gmail.com"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dev.seongeun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-<p align=right> <img src=https://komarev.com/ghpvc/?username=seongit alt=seongit /> </p>
