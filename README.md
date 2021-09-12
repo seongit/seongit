@@ -1,9 +1,5 @@
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongit&count_bg=%23F7DF1E&title_bg=%23555555&icon=&icon_color=%236B6060&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <div align="center">
-  
- 
   
   ### 👋&nbsp; 초보 개발자 성은입니다. ☺️
   \
