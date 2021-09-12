@@ -12,9 +12,14 @@
   ✔️&nbsp; 맡은 일은 **철저하고 확실하게** 그리고 **꾸준하게** 하는 **ISTJ** 🤓 랍니다.\
   ✔️&nbsp; 저에 대해 더 궁금하시다면  <a href="https://seongeun-it.oopy.io/">포트폴리오</a>와 <a href="https://seongeun-it.tistory.com/">개발 블로그</a>를 방문해주세요.
   
+    
+  ### 📓 Porfoilo
+  <a href="https://seongeun-it.oopy.io/"><img src="https://img.shields.io/badge/Web-black?style=flat-square"/></a>\
+  <a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d"><img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square"/></a>\
+  <a href="https://seongeun-it.tistory.com/"><img src="https://img.shields.io/badge/Devlog-black?style=flat-square"/></a>
+  
   
   ### 🛠 &nbsp;Technical Skills
-  \
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
@@ -30,15 +35,8 @@
   ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
 
-  
-  ### 📓 Porfoilo
-  \
-  <a href="https://seongeun-it.oopy.io/"><img src="https://img.shields.io/badge/Web-black?style=flat-square"/></a>\
-  <a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d"><img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square"/></a>\
-  <a href="https://seongeun-it.tistory.com/"><img src="https://img.shields.io/badge/Devlog-black?style=flat-square"/></a>
-  
+
   ### 🤝🏻 &nbsp;Contact
-  \
   <a href="mailto:dev.seongeun@gmail.com"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 
