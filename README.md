@@ -12,7 +12,7 @@
    저에 대해 더 궁금하시다면  <a href="https://seongeun-it.oopy.io/">포트폴리오</a>와 <a href="https://seongeun-it.tistory.com/">개발 블로그</a>를 방문해주세요.
 
   
-  ### 📓 Portfoilo
+  ### 📓 Portfolio
   
   <a href="https://seongeun-it.oopy.io/"><img src="https://img.shields.io/badge/Web-black?style=flat-square"/></a>\
   <a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d"><img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square"/></a>\
