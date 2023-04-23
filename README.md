@@ -25,7 +25,7 @@
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;
-  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo= mariadb&logoColor=white)&nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)&nbsp;
   ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)&nbsp;
