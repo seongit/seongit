@@ -23,19 +23,26 @@
    
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
   ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)&nbsp;
+
+ 
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;\
   ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apacheTomcat&logoColor=white)&nbsp;
   ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white)&nbsp;\
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)&nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;\
+
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
+  ![Redmine](https://img.shields.io/badge/-Redmine-B32024?style=flat-square&logo=redmine)&nbsp;
+   
+ 
  
   
   ### 💻 &nbsp;Contact
