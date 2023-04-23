@@ -24,19 +24,24 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
-  ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
- 
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo= mariadb&logoColor=white)&nbsp;
+  ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
+
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)&nbsp;
   ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apacheTomcat&logoColor=white)&nbsp;
   ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)&nbsp;\
  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)&nbsp;
+  ![Vault](https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white)&nbsp;
+  ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)&nbsp;
+  ![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white)&nbsp;
  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)&nbsp;
   ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;\
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)&nbsp;
 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion)&nbsp;
