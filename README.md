@@ -24,7 +24,7 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
-  ![Vue](https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat-square&logo=vue)&nbsp;
+  ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs)&nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;\
   ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apacheTomcat&logoColor=white)&nbsp;
   ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white)&nbsp;\
