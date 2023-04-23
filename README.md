@@ -24,6 +24,7 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)&nbsp;
   ![Mybatis](https://img.shields.io/badge/-Mybatis-000000?style=flat-square&logo=mybatis&logoColor=white)&nbsp;
+  ![Vue](https://img.shields.io/badge/-vuedotjs-4FC08D?style=flat-square&logo=vue)&nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)&nbsp;\
   ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-F8DC75?style=flat-square&logo=apacheTomcat&logoColor=white)&nbsp;
   ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white)&nbsp;\
@@ -35,7 +36,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
-  ![Vue](https://img.shields.io/badge/-Vue-181717?style=flat-square&logo=vue)&nbsp;
+ 
   
   ### 💻 &nbsp;Contact
   <a href="mailto:dev.seongeun@gmail.com"><img src="https://img.shields.io/badge/-dev.seongeun@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white"/></a>
