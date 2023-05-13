@@ -13,9 +13,7 @@
 
   
   ### 📓 Portfolio
-  
-  <a href="https://robust-gouda-a51.notion.site/f897d935e2144f3b858b5596e72fa406"><img src="https://img.shields.io/badge/Web-black?style=flat-square"/></a>\
-  <a href="https://www.notion.so/Hello-World-79d3e6f8ae4a47638e92caff7d80906d"><img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square"/></a>\
+  <a href="https://robust-gouda-a51.notion.site/f897d935e2144f3b858b5596e72fa406"><img src="https://img.shields.io/badge/Notion-lightgray?style=flat-square"/></a>\
   <a href="https://seongeun-it.tistory.com/"><img src="https://img.shields.io/badge/Devlog-black?style=flat-square"/></a>
   
   
